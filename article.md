@@ -3,10 +3,12 @@
 
 # Article
 
-##Introdcution
+## Introdcution
 
-##Material and Methods
+## Material and Methods
 
-## Discusion
+## Material
 
-##Conclusion
+## Discussion
+
+## Conclusion
