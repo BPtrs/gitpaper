@@ -7,6 +7,4 @@
 
 ##Material and Methods
 
-## Discusion
-
-##Conclusion
+## Discusion  and Conclusion
